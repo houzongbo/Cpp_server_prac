@@ -168,5 +168,6 @@
 
 5. 获取线程的 id
     - 通过 thread 的对象调用 get_id() 获取。
+
     - 在当前线程调用 this_thread::get_id() 获取。
 
